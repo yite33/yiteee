@@ -1,0 +1,79 @@
+{
+  "colors": {
+    "nameColor": "rgb(128,128,128)",
+    "nameOpacity": 1,
+    "descriptionColor": "rgb(255,255,255)",
+    "descriptionOpacity": 0.8,
+    "profileCard": {
+      "color": "rgb(0,0,0)",
+      "opacity": 0.3,
+      "blur": 15
+    },
+    "musicPlayer": {
+      "color": "rgb(0,0,0)",
+      "opacity": 0.3,
+      "blur": 15
+    }
+  },
+  "personal": {
+    "name": "wapers",
+    "introText": "click?",
+    "description": "nie noldu kanka",
+    "location": "discord.gg/floria",
+    "profileImage": "https://media.discordapp.net/attachments/1233881503923179572/1386837642448207962/da25f6b19ffd9430c5de972f8414bc25.jpg?ex=686a51f4&is=68690074&hm=7ed40bec2e22bf96731c10af85fc043b5bab486aea7ab711b97fd817b68c92ce&=&format=webp&width=800&height=800"
+  },
+  "badges": [
+    { "name": "Nitro", "icon": "badges/nitro.webp" },
+    { "name": "boost", "icon": "badges/boost.webp" },
+    { "name": "staff", "icon": "badges/staff.webp" }
+  ],
+  "music": {
+    "enabled": true,
+    "title": "Farketmezz",
+    "url": "songs/song.mp3",
+    "duration": 154,
+    "albumCover": "images/album_cover.png"
+  },
+  "social": [
+    {
+      "name": "instgram",
+      "url": "",
+      "icon": "https://media.discordapp.net/attachments/1255692212717752513/1336981014421049384/Logo5.png?ex=686a3799&is=6868e619&hm=9e20ad1889756d033d36b7a670b7a5785208a78a42b03c972e893ced6e80028b&=&format=webp&quality=lossless&width=720&height=720"
+    },
+    {
+      "name": "discord",
+      "url": "discord.gg/floria",
+      "icon": "https://media.discordapp.net/attachments/1255692212717752513/1336981014949662720/ec08b212-911e-4858-8f9c-50e7aae76350.webp?ex=686a3799&is=6868e619&hm=3045bbca67be4572fbf2c17632a709233931c42ca02b126a6aa6919d8f34a58d&=&format=webp&width=514&height=514"
+    },
+    {
+      "name": "spotify",
+      "url": "",
+      "icon": "https://media.discordapp.net/attachments/1255692212717752513/1336981014135967754/Logo4.png?ex=686a3799&is=6868e619&hm=c1d23734886ef39ede455f888106de4854aa3717a16d702f1565746bf83f2453&=&format=webp&quality=lossless&width=720&height=720"
+    }
+  ],
+  "site": {
+    "title": "wapers 😁",
+    "titleTypewriter": "sakinlik 😁",
+    "favicon": "https://media.discordapp.net/attachments/1255692212717752513/1364102217426272356/white_crown.gif?ex=68431d70&is=6841cbf0&hm=8aaa7dac368937e0d8aa0b0d921a854b6765280d6cef4f83de2baa103912950e&=",
+    "background": {
+      "type": "video",
+      "video": "videos/video.mp4",
+      "image": "images/background.jpg"
+    },
+    "bannerImage": "images/banner.gif",
+    "profileDecoration": "images/decoration.png",
+    "effects": {
+      "snow": true,
+      "card3D": true,
+      "cursorFollower": true,
+      "stars": true,
+      "musicVisualizer": true,
+      "typewriter": true
+    },
+    "ui": {
+      "viewCount": 2337,
+      "onlineStatus": true
+    },
+    "layout": "vertical"
+  }
+}
