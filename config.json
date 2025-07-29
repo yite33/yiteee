@@ -61,7 +61,7 @@
       "image": "images/background.jpg"
     },
     "bannerImage": "images/banner.gif",
-    "profileDecoration": "images/decoration.png",
+    "profileDecoration": "images/decoration.gif",
     "effects": {
       "snow": true,
       "card3D": true,
