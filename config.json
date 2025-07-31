@@ -16,10 +16,10 @@
     }
   },
   "personal": {
-    "name": "wapers",
+    "name": "yite",
     "introText": "click?",
-    "description": "nie noldu kanka",
-    "location": "ofya",
+    "description": "己を知れ",
+    "location": "hey!",
     "profileImage": "https://media.discordapp.net/attachments/1233881503923179572/1386837642448207962/da25f6b19ffd9430c5de972f8414bc25.jpg?ex=686a51f4&is=68690074&hm=7ed40bec2e22bf96731c10af85fc043b5bab486aea7ab711b97fd817b68c92ce&=&format=webp&width=800&height=800"
   },
   "badges": [
@@ -37,23 +37,23 @@
   "social": [
     {
       "name": "instgram",
-      "url": "",
+      "url": "https://www.instagram.com/0yigitt/",
       "icon": "https://media.discordapp.net/attachments/1377626022798819348/1399875025925967923/instagram_logo.png?ex=688a96b6&is=68894536&hm=7f3ae4b18a9455e2e47758a31bb54156a9a5a73e3dc4bc7b4bfd684462e2cf77&=&format=webp&quality=lossless&width=640&height=640"
     },
     {
       "name": "discord",
-      "url": "discord.gg/yokbişeyboş",
+      "url": "discord.gg/yoooooook",
       "icon": "https://media.discordapp.net/attachments/1377626022798819348/1399874291717111843/discord_logo.png?ex=688a9607&is=68894487&hm=da385eead309f80111a0081a71ad6f3ceeeb9a0153d90167babc87b5f008c10b&=&format=webp&quality=lossless&width=640&height=640"
     },
     {
       "name": "spotify",
-      "url": "",
+      "url": "https://open.spotify.com/user/xw4rql1rlwyjdsw36ljqmg0c2?si=2d6233803d0b4edb",
       "icon": "https://media.discordapp.net/attachments/1377626022798819348/1399878710793863178/sads.png?ex=688a9a25&is=688948a5&hm=23d4c9a542e4cc7da378e69afe2fdece15d01113dbeb6679c606cc4851d23600&=&format=webp&quality=lossless&width=320&height=320"
     }
   ],
   "site": {
-    "title": "wapers 😁",
-    "titleTypewriter": "sakinlik 😁",
+    "title": "yite 😁",
+    "titleTypewriter": "kasnak yuvarlandı elek oldu eski orospular melek oldu 😁",
     "favicon": "https://media.discordapp.net/attachments/1233881503923179572/1374211059774132294/e042998a-c3fb-4bc7-903c-7eac4d52133b.jpeg?ex=686a8708&is=68693588&hm=14c84fb8dba87048a98266a864d24433138bdfc0feada39adf3671922607659a&=&format=webp&width=593&height=593",
     "background": {
       "type": "video",
@@ -71,7 +71,7 @@
       "typewriter": true
     },
     "ui": {
-      "viewCount": 2337,
+      "viewCount": 1244,
       "onlineStatus": true
     },
     "layout": "vertical"
