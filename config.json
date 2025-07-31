@@ -29,7 +29,7 @@
   ],
   "music": {
     "enabled": true,
-    "title": "Selam ya bu arada",
+      "title": "Push it",
     "url": "songs/songs.mp3",
     "duration": 154,
     "albumCover": "images/album_cosver.png"
